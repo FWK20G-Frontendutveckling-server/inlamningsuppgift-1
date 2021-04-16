@@ -24,3 +24,11 @@ Denna inlämningsuppgift ska inte ha någon HTML, CSS eller JavaScript (i klient
 * Namn
 * Pris
 * En bild url (Använd exempelvis denna sida för att generera bild-url:er https://placeimg.com/)
+
+
+**Följande ska levereras:**
+* Ett API enligt nedan kravspecifikation
+* En package.json med alla dependencies som behövs för att köra projektet
+* En databas
+
+**Inlämning:** 23/4 senast kl. 23:59
